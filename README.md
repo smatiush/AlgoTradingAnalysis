@@ -1,7 +1,10 @@
 # Algo Trading Analysis Funding MEXC
-This is a repo to archieve the Jupyter Notebook used to study the funding rate performance on MEXC 
-For any question you can write me here:
+This is a repo to archieve the Jupyter Notebook used to study the funding rate performance on MEXC.
+
+For any question you can DM me here:
+
 linkedin: https://www.linkedin.com/in/mattia-senni-817552245/
+
 Telegram: @smatiush
 
 # Links
